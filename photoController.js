@@ -93,6 +93,19 @@ module.exports = {
     /**
      * photoController.create()
      */
+     
+         /**
+     * photoController.create()
+     */
+         /**
+     * photoController.create()
+     */
+         /**
+     * photoController.create()
+     */
+         /**
+     * photoController.create()
+     */
     create: function (req, res) {
         var photo = new PhotoModel({
 			name : req.body.name,
