@@ -131,6 +131,12 @@ module.exports = {
     /**
      * photoController.update()
      */
+         /**
+     * photoController.update()
+     */
+         /**
+     * photoController.update()
+     */
     update: function (req, res) {
         var id = req.params.id;
 
